@@ -2,11 +2,11 @@
 
 ### Technologies
 <p align="center">
-  <img src="html5.svg" />
-  <img src="css.svg" />
-  <img src="react.svg" />
-  <img src="jsRounded.png" />
+  <img height="80" src="html5.svg" />
+  <img height="80" src="css.svg" />
+  <img height="80" src="react.svg" />
+  <img height="80" src="jsRounded.png" />
   &nbsp
-  <img src="tsRounded.png" />
+  <img height="80" src="tsRounded.png" />
 </p>
 
