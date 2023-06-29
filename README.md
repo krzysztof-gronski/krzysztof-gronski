@@ -6,6 +6,7 @@
   <img src="css.svg" />
   <img src="react.svg" />
   <img src="jsRounded.png" />
+  &nbsp
   <img src="tsRounded.png" />
 </p>
 
