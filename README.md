@@ -1,6 +1,6 @@
 ### Welcome to my Github repository!
 
-### Technologies
+### Technologies used:
 <p align="center">
   <img height="80" src="html5.svg" />
   <img height="80" src="css.svg" />
