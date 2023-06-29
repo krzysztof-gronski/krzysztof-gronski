@@ -5,7 +5,7 @@
   <img height="80" src="html5.svg" />
   <img height="80" src="css.svg" />
   <img height="80" src="react.svg" />
-  <img height="80" src="jsRounded.svg" />
-  <img height="80" src="tsRounded.svg" />
+  <img height="80" src="jsRounded.png" />
+  <img height="80" src="tsRounded.png" />
 </p>
 
